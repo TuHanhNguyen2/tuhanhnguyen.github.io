@@ -1,0 +1,16 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Lecturer - Ton Duc Thang University
+    i18n: tdt
+  desc:
+    detail: Teach and assist in the courses of faculty of electrical engineering such as Power System Experiment, Power Circuit Experiment, Power Machinery Experiment I & II, Power Circuit I & II, Thermal & Refrigeration Engineering with 80% student pass the course and giving good feedback. Organize extracurricular activities, and be advisor for two classes up to 200 students. Contribute in research activities.
+    i18n: tdt_desc
+  date:
+    detail: August 2014 - March 2019
+    i18n: tdt_date
+  job:
+    detail: Lecturer
+    i18n: tdt_job
+  icon: fa-university
+  present: true
