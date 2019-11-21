@@ -73,9 +73,9 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-database
-    - name: fa-python
+    - name: icon-python
   skill_icon2:
-    - name: fa-chart-line
+    - name: icon-line-graph
     - name: icon-apache
   desc: I have over 4 years working on the field of Science and Technology, mainly in the field of Electrical Engineering. Now, I am working on data science, machine learning and internet of things (IoT) subjects to develope the skills required for long-term postions in the field of AI, E-commerce or Healthcare industry. Here are the list of technoligies I have been working with - Supervized Learning  - Unsupervized Learning - Google Cloud Plaform - HTML & CSS - Ggoogle Data Studio - Numpy, Pandas and Sklearn.  # Describe yourself.
 
