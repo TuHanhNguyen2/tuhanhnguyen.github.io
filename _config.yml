@@ -64,7 +64,7 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
   github_username: tuhanhnguyen  # Leave blank if you don't have now
   linkedin_id: tuhanhnguyen # Leave blank if you don't have now
-  facebook_username: tu.hanh.nguyen.69  # Leave blank if you don't have now
+  facebook_username: tu.hanh.nguyen.69 # Leave blank if you don't have now
   twitter: tuhanhnguyen
   email: tuhanhnguyen777@gmail.com  # Leave blank if you don't have now
   cv: https://tuhanhnguyen.github.io/CV_Tu_Hanh_Nguyen.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
@@ -72,11 +72,11 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-wordpress
-    - name: fa-linux
+    - name: icon-database
+    - name: fa-python
   skill_icon2:
-    - name: fa-apple
-    - name: fa-chrome
+    - name: fa-chart-line
+    - name: icon-apache
   desc: I have over 4 years working on the field of Science and Technology, mainly in the field of Electrical Engineering. Now, I am working on data science, machine learning and internet of things (IoT) subjects to develope the skills required for long-term postions in the field of AI, E-commerce or Healthcare industry. Here are the list of technoligies I have been working with - Supervized Learning  - Unsupervized Learning - Google Cloud Plaform - HTML & CSS - Ggoogle Data Studio - Numpy, Pandas and Sklearn.  # Describe yourself.
 
 # comment
